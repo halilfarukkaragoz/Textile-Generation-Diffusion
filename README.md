@@ -3,6 +3,7 @@ We present outputs and comparison between our finetuned diffusion model and orig
 ## Results
 
 ![alt text](https://drive.google.com/uc?export=view&id=1wGSU4dnGI6cbE0hUl0kTpO60lD1YPAvR)
+added somethings
 
 |  |  Our model | Baseline model  |
 |---|---|---|
