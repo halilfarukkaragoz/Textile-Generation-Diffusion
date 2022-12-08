@@ -1,5 +1,5 @@
 # Textile-Generation-Diffusion
-
+## Results
 |  |  Our model | Baseline model  |
 |---|---|---|
 | Persian patterns |  ![alt text](https://github.com/halilfarukkaragoz/Textile-Generation-Diffusion/blob/main/images/Persian%20pattern/finetuned.png) | ![alt text](https://github.com/halilfarukkaragoz/Textile-Generation-Diffusion/blob/main/images/Persian%20pattern/original%20weights.png)|
