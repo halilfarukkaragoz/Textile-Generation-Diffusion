@@ -2,6 +2,8 @@
 We present outputs and comparison between our finetuned diffusion model and original stable diffusion model.
 ## Results
 
+![alt text](https://drive.google.com/uc?export=view&id=1wGSU4dnGI6cbE0hUl0kTpO60lD1YPAvR)
+
 |  |  Our model | Baseline model  |
 |---|---|---|
 | Persian patterns |  ![alt text](images/Persian%20pattern/finetuned.png) | ![alt text](images/Persian%20pattern/original%20weights.png)|
