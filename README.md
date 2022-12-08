@@ -9,7 +9,7 @@ We present outputs and comparison between our finetuned diffusion model and orig
 | Art Nouveau pattern | ![alt text](https://drive.google.com/uc?export=view&id=1GNlgD8NZFwByq1AR4cMDD1LCco6eHzXL)  |![alt text](https://drive.google.com/uc?export=view&id=1tdNykahn6LHnVGaMFaCbHs5ddelZobPX)      |
 |  Turkish Patterns | ![alt text](https://drive.google.com/uc?export=view&id=1iGS3QJ_238sWlvJ90gXVlGPHxDopeoas)  |  ![alt text](https://drive.google.com/uc?export=view&id=1ZvOLuesZjmZZs1dXCkFhsHZnKh0DEqr7)   |
 
-## Extra Prompts For Fun
+## Extra Prompts 
 
 |  |  Our model | Baseline model  |
 |---|---|---|
